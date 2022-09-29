@@ -1,1 +1,1 @@
-# MovieAnalysis
+# Case Studies
